@@ -21,6 +21,7 @@ extra check to see if the solution doesn't fit into any of the cases below,
 which have no solution:
 1) If the jug exceeds the target volume
 2) If the jug does not reach the target volume
+
 After both calculations have been made, the best solution is the one with 
 fewer steps.
 
